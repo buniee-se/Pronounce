@@ -1,0 +1,6 @@
+{
+  "name": "Dayleaf — Daily Learning & Activity Journal",
+  "description": "A cozy, minimalist personal learning journal to log daily study sessions, save clickable resources, track takeaways, and keep your study streak alive — stored locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
